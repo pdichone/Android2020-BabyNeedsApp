@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
         }, 1200);// 1.2sec
     }
 
+    //To create a new popup window
     private void createPopupDialog() {
 
         builder = new AlertDialog.Builder(this);
